@@ -1,0 +1,27 @@
+{
+  "name": "contabancaria",
+  "version": "1.0.0",
+  "description": "Projeto Conta Bancária desenvolvido como base prática para aplicar os conceitos de Programação Orientada a Objetos. A cada sessão, novas funcionalidades serão adicionadas, preparando para o Projeto Final (Performance Goal Check), que consolida o aprendizado do Bloco 01.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanessaTargino/contaBancaria.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanessaTargino/contaBancaria/issues"
+  },
+  "homepage": "https://github.com/VanessaTargino/contaBancaria#readme",
+  "dependencies": {
+    "@types/node": "^22.15.29",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
+  }
+}
